@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>true</AutoPlay>
+            <DescSliding>true</DescSliding>
+            <GalleryMultipleSuffix>1</GalleryMultipleSuffix>
+            <GalleryName>imagegallary</GalleryName>
+            <GalleryOptionID>1</GalleryOptionID>
+            <HoverStart>false</HoverStart>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEngine>jquery</ImageEngine>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>21. Metro</ImageTemplate>
+            <ImageTemplateName>Metro</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <PublishFileName>C:/Users/AIR/Desktop/images.html</PublishFileName>
+            <PublishIndex>images.html</PublishIndex>
+            <PublishPath>C:/Users/AIR/Desktop</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelPaths>false</RelPaths>
+            <ResizeSpeed>7</ResizeSpeed>
+            <RightClick>false</RightClick>
+            <SlideShow>true</SlideShow>
+            <SlideShowDelay>4</SlideShowDelay>
+            <ThumbColumns>0</ThumbColumns>
+            <ThumbFitImage>false</ThumbFitImage>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>180</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbTemplate>No Frame Rounded</ThumbTemplate>
+            <ThumbTemplateName>No Frame Rounded</ThumbTemplateName>
+            <ThumbWidth>240</ThumbWidth>
+        </Settings>
+        <Images>
+            <Image>
+                <url>C:\Users\AIR\Desktop\1.jpg</url>
+                <title>1</title>
+            </Image>
+            <Image>
+                <url>C:\Users\AIR\Desktop\2.jpg</url>
+                <title>2</title>
+            </Image>
+            <Image>
+                <url>C:\Users\AIR\Desktop\3.jpg</url>
+                <title>3</title>
+            </Image>
+            <Image>
+                <url>C:\Users\AIR\Desktop\4.jpg</url>
+                <title>4</title>
+            </Image>
+            <Image>
+                <url>C:\Users\AIR\Desktop\5.jpg</url>
+                <title>5</title>
+            </Image>
+            <Image>
+                <url>C:\Users\AIR\Desktop\6.jpg</url>
+                <title>6</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
